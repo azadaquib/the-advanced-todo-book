@@ -22,3 +22,19 @@ This books intends to change that. I am willing to write a process rather than a
 
 I would say read the introduction to understand why this book, and __how__ this book. 
 
+## Why I am writing this book
+
+I am writing this book because there is a dearth of book that go through the entire lifetime of creating something. They go to the absolute minimum and expect you to pick up the rest. I have been reading the same introduction again and again. Delving through the same concepts and slogging through the same examples. I want more and after some years of experience you just stop finding books that actually amount to something.
+
+This book is ~~partially~~ heavily inspired by *The Busy Coder's Guide to Android Development*. That book with its constant updates was one of the few books I felt kept up with the chahotic world of Android development. It would be genuinely dishonest of me not acknowledging the amount of influence it had over me in my career. I had a long travel from home to office, and I read through it almost everyday. It was a ritual of sorts at one point. Thanks teach!
+
+I wanted to recreate something like that but with a grander vision. My book is going to surpass that in ways no mortal developer imagined. I am keeping my ambissions really high with this one though. And I hope to see the very lengths of it to which this goes. Obviously this is open sourced so that when I get busy with other things I can still see the trees of my labour go further.
+
+So what I am trying to achieve here. The goal is twofolds. Write an open source app and document every design decision that goes into it. And write a book that accompanies it. You learn by observing the planning and vision that goes into building an app. This heavily mimics how you are going to work in real life. You start with a plan, outline it with a requirement, highlight the sub goals in a product requirement and then build and test it. And we are going to separate each of the things to its own section. More about it in the *How this book is organized*.
+
+So here is to  a journey that we travel along, hopefully working together through thick and thin working on something substantial and learning along the way. 
+
+
+
+
+
