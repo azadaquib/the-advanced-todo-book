@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/How this Book is written.md",
+                "file": "0. Introduction/What are we planning to build?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How this Book is written"
+              "title": "What are we planning to build?"
             }
           }
         ],
@@ -216,10 +216,11 @@
   },
   "active": "6a1d7e7404d2ccee",
   "lastOpenFiles": [
-    "Introduction/Foreword.md",
-    "Introduction/How this Book is written.md",
+    "0. Introduction/How this Book is written.md",
+    "0. Introduction/What are we planning to build?.md",
+    "0. Introduction/Foreword.md",
     "Welcome.md",
-    "Introduction",
+    "0. Introduction",
     "README.md",
     "LICENSE"
   ]
