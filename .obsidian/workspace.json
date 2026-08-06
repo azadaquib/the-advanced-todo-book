@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction/Foreword.md",
+                "file": "Introduction/How this Book is written.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foreword"
+              "title": "How this Book is written"
             }
           }
         ],
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Introduction/How this Book is written.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,10 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fecbb6b52a1f1ff6",
+  "active": "6a1d7e7404d2ccee",
   "lastOpenFiles": [
-    "Welcome.md",
     "Introduction/Foreword.md",
+    "Introduction/How this Book is written.md",
+    "Welcome.md",
     "Introduction",
     "README.md",
     "LICENSE"
